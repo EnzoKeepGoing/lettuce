@@ -72,7 +72,7 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 (a) Mondai (b) Bixiao (c)
 
 (a) Mo
-Figure 1](images/lettuce_varieties_placeholder.jpg) -->
+Figure 1](Mondai.png) -->
 
 ---
 
