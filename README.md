@@ -29,7 +29,7 @@ Published in *Computers and Electronics in Agriculture*, Volume 232, May 202
 ##  Download the Dataset
 
 - **File**: `lettuce_data.zip` (contains all multimodal images and annotations)
-- **Baidu Netdisk Link**: [https://pan.baidu.com/s/1eMMEYPpSjWA8Gd2srSZlBQ?pwd=2aky](https://pan.baidu.com/s/1eMMEYPpSjWA8Gd2srSZlBQ?pwd=2aky)  
+- **Baidu Netdisk Link**: [https://pan.baidu.com/s/1eMMEYPpSjWA8Gd2srSZlBQ?pwd=2aky](https://pan.baidu.com/s/1o-0gKlYD7mL7BULXn4W3rA?pwd=p9tw) 
 - **Extraction Code**: `2aky`  
   *(Shared via Baidu Netdisk Super‑Member v1)*
 
