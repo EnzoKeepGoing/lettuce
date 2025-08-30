@@ -37,7 +37,6 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 
 ---
 
----
 
 ## 📸 Dataset Figures
 
