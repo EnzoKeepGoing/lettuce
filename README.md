@@ -4,7 +4,7 @@ This dataset is associated with our research article published in *Computers and
 
 **"Lettuce architectural phenotypes extraction from multimodal images by low-light sensitivity and strong spatial perception"**
 
-📄 PDF: [Available Here](link-to-paper-if-public)
+📄 PDF: [Available Here]([link-to-paper-if-public](https://www.sciencedirect.com/science/article/pii/S0168169925000341?ref=pdf_download&fr=RR-2&rr=977331744e85099d))
 
 ---
 
@@ -38,8 +38,8 @@ This dataset is associated with our research article published in *Computers and
 
 ## 🔗 Download        
 
-- **Baidu Netdisk**: [https://pan.baidu.com/s/your-link](https://pan.baidu.com/s/your-link)
-- **Extraction Code**: `xxxx`
+- **Baidu Netdisk**: [百度网盘]((https://pan.baidu.com/s/1eMMEYPpSjWA8Gd2srSZlBQ?pwd=2aky)
+- **Extraction Code**: `2aky`
 
 > 📌 Please cite the paper below if you use this dataset.
 
