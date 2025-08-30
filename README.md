@@ -37,39 +37,64 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 
 ---
 
+---
+
 ## 📸 Dataset Figures
 
 ### **Figure 1**: Three varieties of lettuce  
 (a) Mondai (b) Bixiao (c) Huqian
 
-<p float="left">
-  <img src="images/Mondai.png" width="30%" />
-  <img src="images/Bixiao.png" width="30%" />
-  <img src="images/Huqian.png" width="30%" />
-</p>
+<table>
+  <tr>
+    <td><img src="images/Mondai.png" width="100%"></td>
+    <td><img src="images/Bixiao.png" width="100%"></td>
+    <td><img src="images/Huqian.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">(a)</td>
+    <td align="center">(b)</td>
+    <td align="center">(c)</td>
+  </tr>
+</table>
 
 ---
 
 ### **Figure 2**: Different image formats  
 (a) RGB (b) IR (c) Depth
 
-<p float="left">
-  <img src="images/RGB.png" width="30%" />
-  <img src="images/IR.png" width="30%" />
-  <img src="images/Depth.png" width="30%" />
-</p>
+<table>
+  <tr>
+    <td><img src="images/RGB.png" width="100%"></td>
+    <td><img src="images/IR.png" width="100%"></td>
+    <td><img src="images/Depth.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">(a)</td>
+    <td align="center">(b)</td>
+    <td align="center">(c)</td>
+  </tr>
+</table>
 
 ---
 
 ### **Figure 3**: Lettuce at different growth stages  
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+(a) Seedling (b) Early (c) Middle (d) Mature
 
-<p float="left">
-  <img src="images/Seedling stage.png" width="23%" />
-  <img src="images/Early growth stage.png" width="23%" />
-  <img src="images/Middle growth stage.png" width="23%" />
-  <img src="images/Mature stage.png" width="23%" />
-</p>
+<table>
+  <tr>
+    <td><img src="images/Seedling stage.png" width="100%"></td>
+    <td><img src="images/Early growth stage.png" width="100%"></td>
+    <td><img src="images/Middle growth stage.png" width="100%"></td>
+    <td><img src="images/Mature stage.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">(a)</td>
+    <td align="center">(b)</td>
+    <td align="center">(c)</td>
+    <td align="center">(d)</td>
+  </tr>
+</table>
+
 
 
 
