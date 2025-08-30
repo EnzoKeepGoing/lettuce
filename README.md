@@ -21,6 +21,20 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 - **Camera Placement**: Side-view, approximately 37 cm from lettuce
 - **Capture Frequency**: Once per hour, from 9:00 AM to 11:00 PM daily
 
+### 🌱 Lettuce Cultivation and Experimental Design
+
+- **Lettuce Varieties**: Three commonly cultivated types:
+  - *Bixiao*
+  - *Huqian*
+  - *Mondai*
+- **Growth Stages**: Germination (15 days) → Transplanting → Growth (30 days)
+- **Total Duration**: From **September 15, 2023 to November 18, 2023**, covering **two complete growing cycles**
+- **Number of Plants**: 72 plants per variety per batch (i.e., per growth cycle)
+
+> ✨ **Two separate batches were grown and recorded**. In this study:
+> - The **first batch** was used for training the deep learning model  
+> - The **second batch** was reserved entirely for validation and evaluation
+
 # 📸 Dataset Figures
 
 ### **Figure 1**: Three varieties of lettuce  
@@ -135,19 +149,7 @@ Figure 2](images/image_modalities_placeholder.jpg) -->
 
 (a) Seedling s
 Figure 3](images/growth_stages_placeholder.jpg) -->
-### 🌱 Lettuce Cultivation and Experimental Design
 
-- **Lettuce Varieties**: Three commonly cultivated types:
-  - *Bixiao*
-  - *Huqian*
-  - *Mondai*
-- **Growth Stages**: Germination (15 days) → Transplanting → Growth (30 days)
-- **Total Duration**: From **September 15, 2023 to November 18, 2023**, covering **two complete growing cycles**
-- **Number of Plants**: 72 plants per variety per batch (i.e., per growth cycle)
-
-> ✨ **Two separate batches were grown and recorded**. In this study:
-> - The **first batch** was used for training the deep learning model  
-> - The **second batch** was reserved entirely for validation and evaluation
 
 ### 🏷️ Annotation
 
