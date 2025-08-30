@@ -35,120 +35,42 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 > - The **first batch** was used for training the deep learning model  
 > - The **second batch** was reserved entirely for validation and evaluation
 
-# 📸 Dataset Figures
+---
+
+## 📸 Dataset Figures
 
 ### **Figure 1**: Three varieties of lettuce  
 (a) Mondai (b) Bixiao (c) Huqian
 
-<!-- Placeholder for image -->
-<!-- ![
-(a) Mondai (b) Bixiao (c) Huqian
-
-<!-- Placeholder for image -->
-<!-- ![Figure 1](images/lettuce
-(a) Mondai (b) Bixiao (c) Huqian
-
-<!-- Placeholder for image -->
-<!-- ![Figure 1](images/lettu
-
-(a) Mondai (b) Bixiao (c) Huqian
-
-<!-- Placeholder for image -->
-<!-- ![Figure 1](i
-
-(a) Mondai (b) Bixiao (c) Huqian
-
-<!-- Placeholder for image -->
-<!-- !
-
-(a) Mondai (b) Bixiao (c) Huqian
-
-<!-- Placeholder for im
-
-(a) Mondai (b) Bixiao (c) Huqian
-
-<!-- Pla
-
-(a) Mondai (b) Bixiao (c)
-
-(a) Mo
-Figure 1](images/Mondai.png) -->
+<p float="left">
+  <img src="images/Mondai.png" width="30%" />
+  <img src="images/Bixiao.png" width="30%" />
+  <img src="images/Huqian.png" width="30%" />
+</p>
 
 ---
 
-### **Figure 2**: Different image formats captured  
+### **Figure 2**: Different image formats  
 (a) RGB (b) IR (c) Depth
 
-<!-- Placeholder for image -->
-<!-- ![
-(a) RGB (b) IR (c) Depth
-
-<!-- Placeholder for image -->
-<!-- ![Figure 2](images/image
-(a) RGB (b) IR (c) Depth
-
-<!-- Placeholder for imag
-
-(a) RGB (b) IR (c) Depth
-
-<!-- Place
-
-(a) RGB (b) IR (c) D
-
-(a
-Figure 2](images/image_modalities_placeholder.jpg) -->
+<p float="left">
+  <img src="images/RGB.png" width="30%" />
+  <img src="images/IR.png" width="30%" />
+  <img src="images/Depth.png" width="30%" />
+</p>
 
 ---
 
-
-
----
 ### **Figure 3**: Lettuce at different growth stages  
 (a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
 
-<!-- Placeholder for image -->
-<!-- ![
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+<p float="left">
+  <img src="images/Seedling stage.png" width="23%" />
+  <img src="images/Early growth stage.png" width="23%" />
+  <img src="images/Middle growth stage.png" width="23%" />
+  <img src="images/Mature stage.png" width="23%" />
+</p>
 
-<!-- Placeholder for image -->
-<!-- ![Figure 3](images/growth
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
-
-<!-- Placeholder for image -->
-<!-- ![Figure 3](images/
-
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
-
-<!-- Placeholder for image -->
-<!-- ![Figure 3
-
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
-
-<!-- Placeholder for image -->
-<!-- ![
-
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
-
-<!-- Placeholder for image --
-
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
-
-<!-- Placeholder fo
-
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
-
-<!-- Pla
-
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature st
-
-(a) Seedling stage (b) Early growth stage (c) Middle growth stage
-
-(a) Seedling stage (b) Early growth stage (c) Midd
-
-(a) Seedling stage (b) Early grow
-
-(a) Seedling s
-Figure 3](images/growth_stages_placeholder.jpg) -->
 
 
 ### 🏷️ Annotation
