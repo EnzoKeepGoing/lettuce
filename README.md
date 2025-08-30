@@ -51,7 +51,7 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
     <td><img src="images/Huqian.png" width="100%"></td>
   </tr>
   <tr>
-    <td align="center">(a)</td>
+    <td align="center">(a) Mondai</td>
     <td align="center">(b)</td>
     <td align="center">(c)</td>
   </tr>
