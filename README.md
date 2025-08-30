@@ -72,7 +72,7 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 (a) Mondai (b) Bixiao (c)
 
 (a) Mo
-Figure 1](Mondai.png) -->
+Figure 1](images/Mondai.png) -->
 
 ---
 
