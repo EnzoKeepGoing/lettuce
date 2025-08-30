@@ -42,7 +42,6 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 ## 📸 Dataset Figures
 
 ### **Figure 1**: Three varieties of lettuce  
-(a) Mondai (b) Bixiao (c) Huqian
 
 <table>
   <tr>
@@ -52,15 +51,14 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
   </tr>
   <tr>
     <td align="center">(a) Mondai</td>
-    <td align="center">(b)</td>
-    <td align="center">(c)</td>
+    <td align="center">(b) Bixiao</td>
+    <td align="center">(c) Huqian</td>
   </tr>
 </table>
 
 ---
 
 ### **Figure 2**: Different image formats  
-(a) RGB (b) IR (c) Depth
 
 <table>
   <tr>
@@ -69,16 +67,15 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
     <td><img src="images/Depth.png" width="100%"></td>
   </tr>
   <tr>
-    <td align="center">(a)</td>
-    <td align="center">(b)</td>
-    <td align="center">(c)</td>
+    <td align="center">(a) RGB</td>
+    <td align="center">(b) IR</td>
+    <td align="center">(c) Depth</td>
   </tr>
 </table>
 
 ---
 
 ### **Figure 3**: Lettuce at different growth stages  
-(a) Seedling (b) Early (c) Middle (d) Mature
 
 <table>
   <tr>
@@ -88,10 +85,10 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
     <td><img src="images/Mature stage.png" width="100%"></td>
   </tr>
   <tr>
-    <td align="center">(a)</td>
-    <td align="center">(b)</td>
-    <td align="center">(c)</td>
-    <td align="center">(d)</td>
+    <td align="center">(a) Seedling</td>
+    <td align="center">(b) Early</td>
+    <td align="center">(c) Middle</td>
+    <td align="center">(d) Mature</td>
   </tr>
 </table>
 
