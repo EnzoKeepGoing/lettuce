@@ -21,6 +21,120 @@ This dataset was collected in a Plant Factory with Artificial Lighting (PFAL) lo
 - **Camera Placement**: Side-view, approximately 37 cm from lettuce
 - **Capture Frequency**: Once per hour, from 9:00 AM to 11:00 PM daily
 
+# 📸 Dataset Figures
+
+### **Figure 1**: Three varieties of lettuce  
+(a) Mondai (b) Bixiao (c) Huqian
+
+<!-- Placeholder for image -->
+<!-- ![
+(a) Mondai (b) Bixiao (c) Huqian
+
+<!-- Placeholder for image -->
+<!-- ![Figure 1](images/lettuce
+(a) Mondai (b) Bixiao (c) Huqian
+
+<!-- Placeholder for image -->
+<!-- ![Figure 1](images/lettu
+
+(a) Mondai (b) Bixiao (c) Huqian
+
+<!-- Placeholder for image -->
+<!-- ![Figure 1](i
+
+(a) Mondai (b) Bixiao (c) Huqian
+
+<!-- Placeholder for image -->
+<!-- !
+
+(a) Mondai (b) Bixiao (c) Huqian
+
+<!-- Placeholder for im
+
+(a) Mondai (b) Bixiao (c) Huqian
+
+<!-- Pla
+
+(a) Mondai (b) Bixiao (c)
+
+(a) Mo
+Figure 1](images/lettuce_varieties_placeholder.jpg) -->
+
+---
+
+### **Figure 2**: Different image formats captured  
+(a) RGB (b) IR (c) Depth
+
+<!-- Placeholder for image -->
+<!-- ![
+(a) RGB (b) IR (c) Depth
+
+<!-- Placeholder for image -->
+<!-- ![Figure 2](images/image
+(a) RGB (b) IR (c) Depth
+
+<!-- Placeholder for imag
+
+(a) RGB (b) IR (c) Depth
+
+<!-- Place
+
+(a) RGB (b) IR (c) D
+
+(a
+Figure 2](images/image_modalities_placeholder.jpg) -->
+
+---
+
+
+
+---
+### **Figure 3**: Lettuce at different growth stages  
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Placeholder for image -->
+<!-- ![
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Placeholder for image -->
+<!-- ![Figure 3](images/growth
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Placeholder for image -->
+<!-- ![Figure 3](images/
+
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Placeholder for image -->
+<!-- ![Figure 3
+
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Placeholder for image -->
+<!-- ![
+
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Placeholder for image --
+
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Placeholder fo
+
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature stage
+
+<!-- Pla
+
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage (d) Mature st
+
+(a) Seedling stage (b) Early growth stage (c) Middle growth stage
+
+(a) Seedling stage (b) Early growth stage (c) Midd
+
+(a) Seedling stage (b) Early grow
+
+(a) Seedling s
+Figure 3](images/growth_stages_placeholder.jpg) -->
 ### 🌱 Lettuce Cultivation and Experimental Design
 
 - **Lettuce Varieties**: Three commonly cultivated types:
