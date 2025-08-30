@@ -1,23 +1,53 @@
-数据集介绍：Lettuce Architectural Phenotypes from Multimodal Images
-本数据集来自我们发表于 Computers and Electronics in Agriculture（2025年第232卷）的一篇论文：
-《Lettuce architectural phenotypes extraction from multimodal images by low-light sensitivity and strong spatial perception》
-（PDF见 论文原文）
+# 🥬 Lettuce Phenotype Dataset from Multimodal Images
 
-本研究针对人工光照植物工厂中生菜的表型性状提取问题，构建了一个多模态图像数据集，包含 RGB、红外（IR）和深度（Depth）图像，并配套设计了融合模型，用于非接触、自动化地获取植物高度与冠幅等关键农艺性状。
+This dataset is associated with our research article published in *Computers and Electronics in Agriculture*:
 
-📁 数据说明
-图像来源：使用 Intel® RealSense™ D435i 相机，从培养架侧面拍摄。每小时采集一次图像，时间段为每天 9:00 至 23:00。
-图像格式：RGB、IR 和 Depth，分辨率均为 1280x720，PNG 格式。
-标注类别：所有图像使用 LabelImg 进行了手动标注，类别为 “lettuce”，包含目标边界框（bounding box）信息。
-样本数量：
-训练集：9,000 张图像
-验证集：8,000 张图像
-测试集：1,000 张图像
-品种信息：包含三种生菜品种：碧霄（Bixiao）、琥乾（Huqian）和蒙黛（Mondai）
-🔗 数据下载（百度网盘）
-链接: https://pan.baidu.com/s/your-link
+**"Lettuce architectural phenotypes extraction from multimodal images by low-light sensitivity and strong spatial perception"**
 
+📄 PDF: [Available Here](link-to-paper-if-public)
 
+---
+
+## 📁 Dataset Description
+
+- **Image Types**: RGB, Infrared (IR), and Depth images
+- **Resolution**: 1280 × 720 (PNG format)
+- **Camera**: Intel® RealSense™ D435i
+- **Capture Setup**: Side view of cultivation frames, hourly images from 9:00 AM to 11:00 PM
+- **Image Counts**:
+  - Training Set: 9,000 images  
+  - Validation Set: 8,000 images  
+  - Test Set: 1,000 images  
+- **Labels**: All images are annotated using LabelImg with bounding boxes labeled as `"lettuce"`
+- **Lettuce Varieties**: Bixiao, Huqian, and Mondai
+
+---
+
+## 💡 Research Highlights
+
+- A multimodal fusion model combining **RGB + IR + Depth** to extract lettuce architectural phenotypes in Plant Factories with Artificial Lighting (PFALs)
+- Two novel modules:
+  - `DRS`: Deep Residual Spatial Enhancement
+  - `IRC`: Infrared Feature Compensation via Adaptive Weighting
+- The model is robust under variable lighting and dense planting conditions
+- Experimental results:        
+  - **Plant Height RMSE**: 0.74 cm | **MSE**: 0.55  
+  - **Canopy Width RMSE**: 0.70 cm | **MSE**: 0.49
+
+---
+
+## 🔗 Download        
+
+- **Baidu Netdisk**: [https://pan.baidu.com/s/your-link](https://pan.baidu.com/s/your-link)
+- **Extraction Code**: `xxxx`
+
+> 📌 Please cite the paper below if you use this dataset.
+
+---
+
+## 📚 Citation (BibTeX)
+
+```bibtex      
 @article{lu2025lettuce,
   title={Lettuce architectural phenotypes extraction from multimodal images by low-light sensitivity and strong spatial perception},
   author={Lu, Shenglian and Lv, Yibo and Qian, Tingting and Ren, Wenyi and Li, Xiaoming and Li, Yiyang and Li, Guo},
@@ -28,4 +58,3 @@
   publisher={Elsevier},
   doi={10.1016/j.compag.2025.109928}
 }
-提取码: xxxx
